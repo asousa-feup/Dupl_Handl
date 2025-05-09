@@ -1,4 +1,7 @@
-# Dupl_Handl (C)  asousa@fe.up.pt 2025
+# Dupl_Handl
+# Programmed by asousa@fe.up.pt in a hurry to fix backup mess
+# MIT license, see README.md file
+
 
 import os
 import subprocess
