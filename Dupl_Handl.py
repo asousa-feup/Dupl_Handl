@@ -1,3 +1,5 @@
+# Dupl_Handl (C)  asousa@fe.up.pt 2025
+
 import os
 import subprocess
 import tkinter as tk
