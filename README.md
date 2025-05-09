@@ -13,6 +13,7 @@ Main Features:
  - Tested only in windows 11
 
 
+
 # MIT License
 
 Copyright (c) 2025 Armando Sousa

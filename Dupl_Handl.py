@@ -2,7 +2,6 @@
 # Programmed by asousa@fe.up.pt in a hurry to fix backup mess
 # MIT license, see README.md file
 
-
 import os
 import subprocess
 import tkinter as tk
