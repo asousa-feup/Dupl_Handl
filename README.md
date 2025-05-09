@@ -1,10 +1,10 @@
 # Dupl_Handl
-GUI in python that helps merge two directories; 
-files with same names are compared; 
-suggestions are given; 
-copying and deleting is made easy (cell and context menu); 
-optionally uses windows long filenames
-May be used as an ttk example
+ - GUI in python that helps merge two directories; 
+ - files with same names are compared; 
+- suggestions are given; 
+- copying and deleting is made easy (cell and context menu); 
+- optionally uses windows long filenames
+- May be used as an ttk example
 
 asousa@fe.up.pt
 
